@@ -1,3 +1,6 @@
 third Butten
 forward Butten
 color: Blue
+By pressing the button the color changed to
+Color: Red
+
