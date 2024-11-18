@@ -2,3 +2,6 @@ first Botten
 Play Music
 Color: Blue
 New Line
+By pressing the button the color changes
+To color: Red
+
